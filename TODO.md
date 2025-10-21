@@ -1,0 +1,5 @@
+- [x] Add state and form to App.js
+- [x] Implement form handlers in App.js
+- [x] Add success message rendering in App.js
+- [x] Fill in initial state tests in App.test.js
+- [x] Fill in user event tests in App.test.js
